@@ -1,0 +1,12 @@
+﻿  소스.c
+C:\Users\PC\source\repos\Project16\Project16\소스.c(7,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Users\PC\source\repos\Project16\Project16\소스.c(7,1): message : 이전에 명령줄에서 선언된 '_CRT_SECURE_NO_WARNINGS'
+C:\Users\PC\source\repos\Project16\Project16\displayControl.h(85,8): warning C4101: 'dw' :참조되지 않은 지역 변수입니다.
+C:\Users\PC\source\repos\Project16\Project16\displayControl.h(183,43): warning C4267: '함수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project16\Project16\displayControl.h(191,38): warning C4022: 'WriteFile': 실제 매개 변수 2의 포인터가 일치하지 않습니다.
+C:\Users\PC\source\repos\Project16\Project16\displayControl.h(191,53): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\PC\source\repos\Project16\Project16\displayControl.h(191,50): warning C4024: 'strlen': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\PC\source\repos\Project16\Project16\displayControl.h(191,43): warning C4267: '함수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project16\Project16\displayControl.h(200,43): warning C4267: '함수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project16\Project16\소스.c(59,16): warning C4566: 유니버설 문자 이름 '\U0001F331'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+  Project16.vcxproj -> C:\Users\PC\source\repos\Project16\x64\Debug\Project16.exe
